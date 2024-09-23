@@ -16,4 +16,4 @@
   <img src="https://github.com/AlexeEdu/Projeto-Conversor-de-Moedas/blob/main/assets/Convert%20Money.png?raw=true" alt="imagemConvertMoney">
  
 
-  <p>:heavy_check_mark: Netlify: <a href="https://projeto-wecare.netlify.app/">WEcare</a></p>
+  <p>:heavy_check_mark: Netlify: <a href="https://alexeedu.github.io/Projeto-Conversor-de-Moedas/">ConvertMoney</a></p>
